@@ -1,6 +1,11 @@
 # HP-Probook-430-G7-Monterey-EFI
 HP-Probook-430-G7-Monterey-EFI for opencore boot loader and installer
 
+DOWNLOAD one of the following cloud providers
+https://anonfiles.com/e1P1zeYfy5/EFI_zip
+https://www.mediafire.com/file/ydc6d117ykound8/EFI.zip/file
+
+
 This can be used to replace the default EFI folder and contents in open core
 
 This is my modification to the EFI for my notebook, everything seems to be working if you have any issues please lodge the issue and any solutions would be fantastic. I am not maintaining this it is just a backup and a copy for other people to copy from.
